@@ -1,14 +1,13 @@
 /configuração Firebase
 
 const firebaseConfig = {
-
-     apiKey: "AIzaSyAsFyvefj6hTUTZJ52jDX9wa_uqWFbeQFk",
-     authDomain: "atividade-b80ae.firebaseapp.com",
-     projectId: "atividade-b80ae",
-     storageBucket: "atividade-b80ae.firebasestorage.app",
-     messagingSenderId: "341377935732",
-     appId: "1:341377935732:web:959b94629a218e304da421",
-     measurementId: "G-EGES8GYVE3"
+  apiKey: "AIzaSyB6wk6anqX1jTNmJoz08jzJuZzM_WovtA8",
+  authDomain: "login-email-866ff.firebaseapp.com",
+  projectId: "login-email-866ff",
+  storageBucket: "login-email-866ff.firebasestorage.app",
+  messagingSenderId: "547722059943",
+  appId: "1:547722059943:web:cdcce3e7e9a2c5d93b7b82",
+  measurementId: "G-GQGXRPS513"
 };
 
 //inicializar  yhh
